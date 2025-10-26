@@ -7,3 +7,5 @@ jupyterlab
 xgboost
 PyPrind
 nltk
+mlxtend
+watermark
