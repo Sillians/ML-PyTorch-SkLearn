@@ -9,3 +9,5 @@ PyPrind
 nltk
 mlxtend
 watermark
+torch
+torchvision
