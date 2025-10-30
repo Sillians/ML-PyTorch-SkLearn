@@ -11,3 +11,8 @@ mlxtend
 watermark
 torch
 torchvision
+mlxtend
+tensorboard
+pytorch-lightning
+torchmetrics
+tensorflow
