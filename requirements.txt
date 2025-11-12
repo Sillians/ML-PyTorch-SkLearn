@@ -16,11 +16,3 @@ tensorboard
 pytorch-lightning
 torchmetrics
 tensorflow
-torchdata
-datasets
-tokenizers
-transformers
-networkx
-# torch-scatter
-# torch-sparse
-torch-geometric
