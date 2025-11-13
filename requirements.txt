@@ -16,3 +16,5 @@ tensorboard
 pytorch-lightning
 torchmetrics
 tensorflow
+gym
+Gymnasium
